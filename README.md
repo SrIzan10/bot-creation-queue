@@ -4,4 +4,3 @@
 | ------------- | ------------- |
 | Gamer People Club  | Bask Rewrite  |
 | HammerBOT  | Vinci (Mara Turing)  |
-| ------------- | ------------- |
